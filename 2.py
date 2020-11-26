@@ -1,0 +1,5 @@
+nume=str(input("Numele:"))
+varsta=str(input("Varsta:"))
+orasul=str(input("Orasul de resedinta:"))
+strada=str(input("Strada pe care locuiesti:"))
+print(f'Numele meu este {nume},am {varsta} ani, sunt din {orasul} si locuiesc pe strada {strada}')
